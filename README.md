@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emryswaves
+- 👋 Hi, I’m @espressonightingale
 - 👀 I’m interested in getting to know CS more
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
